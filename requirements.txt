@@ -2,3 +2,4 @@ streamlit>=1.30.0
 geopandas>=0.14
 folium>=0.14
 streamlit-folium>=0.15
+#
